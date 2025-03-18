@@ -7,4 +7,4 @@ Material	:SQL Injection~Quiz 5
 Subject	    :Computer Network and Security
 
 
-Sql injection using python
+For the target of SQL Injection
